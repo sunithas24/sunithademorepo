@@ -1,0 +1,9 @@
+{
+	"name": "sunithafactgithub",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ea7f3bfe-3f9a-4fcc-a2c1-494cac93dc51",
+		"tenantId": "5d4cdeba-9ff9-4465-a645-74c91476a1cf"
+	}
+}
