@@ -4,6 +4,12 @@
 	"parameters": {
 		"factoryName": {
 			"value": "sunithafactgithub"
+		},
+		"AzureDataLakeStorage1_sunitha1_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_sunitha1_properties_typeProperties_url": {
+			"value": "https://ssunithastorage.dfs.core.windows.net/"
 		}
 	}
 }
